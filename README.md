@@ -8,14 +8,23 @@ OracleDTS v1.0.0 (C) 2019-2021 by yanshoupeng, yanshoupeng@yunhuansoft.com
 
 Supported Options:
   -h [ --help ]         show help message
+  
   --userid arg          userid for source database
+  
   --password arg        password for source database
+  
   --server arg          connection string for source database(tnsname)
+  
   --charset arg         utf8|gbk
+  
   --target arg          target database info
+  
   --tables arg          tables to migrate
+  
   --commitNum arg       number rows of every commit
+  
   --threads arg         thread number
+  
   
   
   
