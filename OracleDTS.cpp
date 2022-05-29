@@ -4,7 +4,7 @@ Rem $Header: oracleDTS.cpp  $
 Rem
 Rem oracleDTS.cpp
 Rem
-Rem Copyright (c) 2019, 2019, YunHuan. All rights reserved.  
+Rem Copyright (c) 2019, 2019, yanshoupeng. All rights reserved.  
 Rem
 Rem    NAME
 Rem      oracleDTS.cpp - main program of oracleDTS
