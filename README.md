@@ -18,6 +18,8 @@ Supported Options:
   --threads arg         thread number
   
   
+  
+  
  使用方式：
 
 [yansp@localserver oracleDTS]$ ./OracleDTS --userid=dbmgr --password="yanshoupeng" --server=192.168.1.88/yunhuandb  --tables="VIEW:VIEW_TT01,TT01" --threads=1  --commitNum=2000 --target="mysql:yansp:yansp:192.168.1.88:3306:yanspdb"
